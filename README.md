@@ -21,4 +21,12 @@ In a digital age dominated by shallow, appearance-based social apps, **VibeAI** 
 
 ---
 
+## VibeAI V1.0.0
+1.  User Registration and Profile Creation
+2.  Chatbot Interaction
+3.  Interest-Based Matching Algorithm
+4.  Messaging
+5.  Connection Management
+6.  Search and Discovery
+
 Join us in building a community where connections are based on more than just swipes. Let’s vibe together — the real way, with **VibeAI**!
